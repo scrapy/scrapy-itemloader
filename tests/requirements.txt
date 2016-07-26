@@ -1,0 +1,4 @@
+# Tests requirements
+pytest==2.9.2
+pytest-cov==2.2.1
+jmespath
