@@ -1,2 +1,3 @@
 # scrapy-itemloader
-Library to populate Scrapy items using XPath and CSS with a convenient API
+This is a first attempt to extract Scrapy item loaders to a separate package.
+See https://github.com/scrapy/itemloaders for the up-to-date code.
